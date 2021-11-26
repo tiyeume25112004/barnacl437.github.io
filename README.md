@@ -8,5 +8,5 @@ hoặc chỉ nên tải code về tham khảo.
 
 (c) Barnacl437, 2021. Bảo lưu 50% quyền. :>
 
-[Note: Hiện tại projec đang tạm ngưng activity để viết lại mã nguồn trang web. Thông tin thêm sẽ được công bố sau.]
+~~[Note: Hiện tại projec đang tạm ngưng activity để viết lại mã nguồn trang web. Thông tin thêm sẽ được công bố sau.]~~ Uấy, relaunch lại rồi kìa.
 
